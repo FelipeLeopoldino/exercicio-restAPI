@@ -3,7 +3,7 @@
 Exercícios proposto em sala de aula do curso SerraTec
 Modulo Desenvolvimento de API Restfull
 
-#Proposta do exercício
+##Proposta do exercício
 
 ## Conectar o banco de dados
 
